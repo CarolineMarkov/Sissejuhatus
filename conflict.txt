@@ -1,0 +1,3 @@
+Kirjutage faili paar rida teksti. 
+see on fail nimega conflict.txt
+

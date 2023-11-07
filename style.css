@@ -1,0 +1,68 @@
+h1 {
+    color: white; 
+    font-size: 24px;
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif
+    
+
+}
+h2 {
+    color: white; 
+    font-size: 24px;
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif
+    
+
+}
+
+ul {
+    color: white; 
+
+}
+p {
+    color: white; 
+    font-size: 16px; 
+    text-align: left; 
+    font-family:'Courier New', Courier, monospace; 
+
+}
+img {
+        border: 2px solid #767; 
+        box-shadow: 5px 5px 5px white;
+    }
+table{
+    border-collapse: collapse; 
+    width: 100%; 
+    background-color: pink; 
+   
+}
+th, td {
+    font-weight: bold;
+    color: white
+}
+
+body {
+    background-image: url('mullid.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+
+}
+
+.veerud {
+    display: flex; 
+}
+
+.vasak-veerg  {
+    flex: 1; 
+    padding: 10px; 
+    
+
+}
+.parem-veerg {
+    flex: 1; 
+    padding: 10px; 
+    
+
+}
+ 
+    
